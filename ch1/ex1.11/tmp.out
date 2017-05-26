@@ -1,0 +1,501 @@
+Get http://googleusercontent.com/: dial tcp: lookup googleusercontent.com on 127.0.1.1:53: no such host
+0.28s   132405  http://imgur.com/
+Get http://miibeian.gov.cn/: dial tcp: lookup miibeian.gov.cn on 127.0.1.1:53: no such host
+0.30s   124521  http://pcworld.com/
+0.34s   152134  http://time.com/
+Get http://linksynergy.com/: dial tcp: lookup linksynergy.com on 127.0.1.1:53: no such host
+0.39s   240678  http://mashable.com/
+0.41s    36728  http://histats.com/
+0.43s    24885  http://statcounter.com/
+0.46s     3616  http://domainactive.co/
+0.47s   102831  http://adobe.com/
+0.52s    37904  http://ameblo.jp/
+0.52s    86882  http://businessinsider.com/
+0.52s     2645  http://sedoparking.com/
+0.54s    11344  http://google.com/
+0.52s     7563  http://youronlinechoices.com/
+0.55s     1374  http://bestfwdservice.com/
+0.59s    10457  http://google.co.uk/
+0.59s    55515  http://wordpress.com/
+0.58s   153711  http://thehill.com/
+0.62s    10362  http://google.com.au/
+0.64s    55515  http://wp.com/
+0.65s    34184  http://w3schools.com/
+0.65s    10627  http://google.co.jp/
+0.64s    11653  http://google.es/
+0.67s     9523  http://instagram.com/
+0.69s    23475  http://bigcartel.com/
+0.67s    19458  http://behance.net/
+0.70s    33363  http://columbia.edu/
+0.72s   118584  http://bing.com/
+0.73s    10920  http://google.pl/
+0.74s   263822  http://washingtonpost.com/
+0.77s   513491  http://vimeo.com/
+0.79s    19907  http://storify.com/
+0.80s   186155  http://etsy.com/
+0.80s   462968  http://chicagotribune.com/
+0.82s    50862  http://ustream.tv/
+0.85s    44175  http://linkedin.com/
+0.84s   167677  http://sciencemag.org/
+0.88s    98718  http://github.com/
+0.87s    47913  http://berkeley.edu/
+0.87s    51673  http://trustpilot.com/
+0.88s   164980  http://thenextweb.com/
+0.89s    72723  http://yale.edu/
+0.91s   667309  http://163.com/
+0.92s    71586  http://tumblr.com/
+0.93s    69054  http://prezi.com/
+0.93s    86294  http://wikipedia.org/
+0.93s   115632  http://meetup.com/
+0.99s   200906  http://flickr.com/
+0.98s   670908  http://theguardian.com/
+1.00s    61399  http://sourceforge.net/
+1.02s    19118  http://addtoany.com/
+1.00s      824  http://secureserver.net/
+1.03s   316162  http://twitter.com/
+1.04s   110640  http://goo.gl/
+1.07s    94664  http://blogger.com/
+1.08s    81158  http://pinterest.com/
+1.08s    93576  http://myshopify.com/
+1.08s   161458  http://ebay.co.uk/
+1.10s   241016  http://amzn.to/
+1.09s    72551  http://sec.gov/
+1.10s    23563  http://sun.com/
+1.10s    42811  http://elsevier.com/
+1.11s    88158  http://jimdo.com/
+1.13s   256558  http://tripadvisor.co.uk/
+1.21s   208477  http://ebay.com/
+1.26s   367149  http://aol.com/
+1.27s   241550  http://amazon.com/
+1.25s   113495  http://ovh.com/
+1.32s    83118  http://windowsphone.com/
+1.37s   570021  http://godaddy.com/
+1.40s    27908  http://foursquare.com/
+1.40s   167800  http://imdb.com/
+1.39s    70582  http://livedoor.jp/
+1.44s   508327  http://engadget.com/
+1.47s   138267  http://eventbrite.com/
+1.50s   241170  http://techcrunch.com/
+1.54s   367403  http://netscape.com/
+1.56s    89288  http://creativecommons.org/
+1.58s   113349  http://hostnet.nl/
+1.58s    22709  http://stumbleupon.com/
+1.61s    45408  http://lulu.com/
+1.66s   120776  http://yelp.com/
+1.70s    69741  http://paginegialle.it/
+1.70s   691554  http://globo.com/
+1.77s   108065  http://sedo.com/
+1.80s   254084  http://mail.ru/
+1.78s   208000  http://gmx.net/
+1.82s   581561  http://issuu.com/
+1.88s    43157  http://oreilly.com/
+1.93s   410844  http://youtube.com/
+1.96s   465366  http://yahoo.com/
+2.04s   998134  http://wsj.com/
+2.06s    94664  http://blogspot.com/
+2.12s   534972  http://youtu.be/
+2.13s    69440  http://nih.gov/
+2.25s   159774  http://1und1.de/
+2.28s    31418  http://safedog.cn/
+2.32s    45555  http://jiathis.com/
+2.61s    43352  http://xing.com/
+2.87s   206500  http://amazon.de/
+2.91s    19258  http://yahoo.co.jp/
+3.07s    66766  http://domainmarket.com/
+4.20s    44360  http://constantcontact.com/
+4.55s    73859  http://unesco.org/
+4.55s     7626  http://domainname.de/
+4.71s   139672  http://hatena.ne.jp/
+5.12s     3973  http://whoisprivacyprotect.com/
+Get http://dot.gov/: dial tcp: lookup dot.gov on 127.0.1.1:53: no such host
+Get http://admin.ch/: dial tcp: lookup admin.ch on 127.0.1.1:53: no such host
+5.26s     4577  http://ascii.co.uk/
+5.36s    58771  http://apache.org/
+5.41s    30567  http://photobucket.com/
+Get http://delicious.com/: dial tcp: lookup delicious.com on 127.0.1.1:53: no such host
+Get http://jdoqocy.com/: dial tcp: lookup jdoqocy.com on 127.0.1.1:53: no such host
+6.16s     3154  http://t.co/
+7.36s     2325  http://ovh.net/
+7.74s    24897  http://shinystat.com/
+8.12s   371944  http://amazonaws.com/
+8.51s      197  http://geocities.com/
+9.24s    38739  http://bluehost.com/
+Get http://webs.com/: dial tcp [2400:cb00:2048:1::6810:5a78]:80: connect: network is unreachable
+Get http://tripadvisor.com/: dial tcp: lookup tripadvisor.com on 127.0.1.1:53: read udp 127.0.0.1:58559->127.0.1.1:53: i/o timeout
+Get http://one.com/: dial tcp: lookup one.com on 127.0.1.1:53: read udp 127.0.0.1:56435->127.0.1.1:53: i/o timeout
+Get http://cnet.com/: dial tcp: lookup cnet.com on 127.0.1.1:53: read udp 127.0.0.1:60280->127.0.1.1:53: i/o timeout
+Get http://baidu.com/: dial tcp: lookup baidu.com on 127.0.1.1:53: read udp 127.0.0.1:40401->127.0.1.1:53: i/o timeout
+Get http://myspace.com/: dial tcp: lookup myspace.com on 127.0.1.1:53: read udp 127.0.0.1:34382->127.0.1.1:53: i/o timeout
+Get http://gov.uk/: dial tcp: lookup gov.uk on 127.0.1.1:53: read udp 127.0.0.1:45173->127.0.1.1:53: i/o timeout
+Get http://soundcloud.com/: dial tcp: lookup soundcloud.com on 127.0.1.1:53: read udp 127.0.0.1:55063->127.0.1.1:53: i/o timeout
+Get http://parallels.com/: dial tcp: lookup parallels.com on 127.0.1.1:53: read udp 127.0.0.1:38900->127.0.1.1:53: i/o timeout
+Get http://reuters.com/: dial tcp: lookup reuters.com on 127.0.1.1:53: read udp 127.0.0.1:58184->127.0.1.1:53: i/o timeout
+Get http://cnn.com/: dial tcp [2a04:4e42::323]:80: connect: network is unreachable
+Get http://huffingtonpost.com/: dial tcp: lookup huffingtonpost.com on 127.0.1.1:53: read udp 127.0.0.1:40860->127.0.1.1:53: i/o timeout
+Get http://harvard.edu/: dial tcp: lookup harvard.edu on 127.0.1.1:53: read udp 127.0.0.1:59935->127.0.1.1:53: i/o timeout
+Get http://forbes.com/: dial tcp: lookup forbes.com on 127.0.1.1:53: read udp 127.0.0.1:53458->127.0.1.1:53: i/o timeout
+Get http://ed.gov/: dial tcp [2610:e8:907f:1ff:1c14:9b35:aa1e:f845]:80: connect: network is unreachable
+Get http://hibu.com/: dial tcp: lookup hibu.com on 127.0.1.1:53: read udp 127.0.0.1:59426->127.0.1.1:53: i/o timeout
+Get http://dropbox.com/: dial tcp: lookup dropbox.com on 127.0.1.1:53: read udp 127.0.0.1:50675->127.0.1.1:53: i/o timeout
+Get http://miitbeian.gov.cn/: dial tcp: lookup miitbeian.gov.cn on 127.0.1.1:53: read udp 127.0.0.1:37504->127.0.1.1:53: i/o timeout
+Get http://upenn.edu/: dial tcp: lookup upenn.edu on 127.0.1.1:53: read udp 127.0.0.1:51875->127.0.1.1:53: i/o timeout
+Get http://typepad.com/: dial tcp: lookup typepad.com on 127.0.1.1:53: read udp 127.0.0.1:48792->127.0.1.1:53: i/o timeout
+Get http://telegraph.co.uk/: dial tcp: lookup telegraph.co.uk on 127.0.1.1:53: read udp 127.0.0.1:40709->127.0.1.1:53: i/o timeout
+Get http://nifty.com/: dial tcp: lookup nifty.com on 127.0.1.1:53: read udp 127.0.0.1:38616->127.0.1.1:53: i/o timeout
+Get http://spiegel.de/: dial tcp: lookup spiegel.de on 127.0.1.1:53: read udp 127.0.0.1:53756->127.0.1.1:53: i/o timeout
+Get http://wiley.com/: dial tcp: lookup wiley.com on 127.0.1.1:53: read udp 127.0.0.1:48700->127.0.1.1:53: i/o timeout
+Get http://welt.de/: dial tcp: lookup welt.de on 127.0.1.1:53: read udp 127.0.0.1:48188->127.0.1.1:53: i/o timeout
+Get http://foxnews.com/: dial tcp: lookup foxnews.com on 127.0.1.1:53: read udp 127.0.0.1:33142->127.0.1.1:53: i/o timeout
+Get http://ieee.org/: dial tcp: lookup ieee.org on 127.0.1.1:53: read udp 127.0.0.1:36296->127.0.1.1:53: i/o timeout
+Get http://github.io/: dial tcp: lookup github.io on 127.0.1.1:53: read udp 127.0.0.1:50454->127.0.1.1:53: i/o timeout
+Get http://com.com/: dial tcp: lookup com.com on 127.0.1.1:53: read udp 127.0.0.1:34323->127.0.1.1:53: i/o timeout
+Get http://liveinternet.ru/: dial tcp: lookup liveinternet.ru on 127.0.1.1:53: read udp 127.0.0.1:60301->127.0.1.1:53: i/o timeout
+Get http://chinadaily.com.cn/: dial tcp: lookup chinadaily.com.cn on 127.0.1.1:53: read udp 127.0.0.1:34701->127.0.1.1:53: i/o timeout
+Get http://eventbrite.co.uk/: dial tcp: lookup eventbrite.co.uk on 127.0.1.1:53: read udp 127.0.0.1:40113->127.0.1.1:53: i/o timeout
+Get http://discuz.net/: dial tcp: lookup discuz.net on 127.0.1.1:53: read udp 127.0.0.1:34379->127.0.1.1:53: i/o timeout
+Get http://allaboutcookies.org/: dial tcp: lookup allaboutcookies.org on 127.0.1.1:53: read udp 127.0.0.1:46952->127.0.1.1:53: i/o timeout
+Get http://aliyun.com/: dial tcp: lookup aliyun.com on 127.0.1.1:53: read udp 127.0.0.1:42111->127.0.1.1:53: i/o timeout
+Get http://tripod.com/: dial tcp: lookup tripod.com on 127.0.1.1:53: read udp 127.0.0.1:58829->127.0.1.1:53: i/o timeout
+Get http://iqiyi.com/: dial tcp: lookup iqiyi.com on 127.0.1.1:53: read udp 127.0.0.1:40130->127.0.1.1:53: i/o timeout
+Get http://energy.gov/: dial tcp: lookup energy.gov on 127.0.1.1:53: read udp 127.0.0.1:54073->127.0.1.1:53: i/o timeout
+Get http://nbcnews.com/: dial tcp: lookup nbcnews.com on 127.0.1.1:53: read udp 127.0.0.1:34454->127.0.1.1:53: i/o timeout
+Get http://fao.org/: dial tcp: lookup fao.org on 127.0.1.1:53: read udp 127.0.0.1:40781->127.0.1.1:53: i/o timeout
+Get http://box.com/: dial tcp: lookup box.com on 127.0.1.1:53: read udp 127.0.0.1:47307->127.0.1.1:53: i/o timeout
+Get http://usa.gov/: dial tcp: lookup usa.gov on 127.0.1.1:53: read udp 127.0.0.1:39694->127.0.1.1:53: i/o timeout
+Get http://namejet.com/: dial tcp: lookup namejet.com on 127.0.1.1:53: read udp 127.0.0.1:51497->127.0.1.1:53: i/o timeout
+Get http://homestead.com/: dial tcp: lookup homestead.com on 127.0.1.1:53: read udp 127.0.0.1:55352->127.0.1.1:53: i/o timeout
+Get http://nps.gov/: dial tcp: lookup nps.gov on 127.0.1.1:53: read udp 127.0.0.1:50939->127.0.1.1:53: i/o timeout
+Get http://cornell.edu/: dial tcp: lookup cornell.edu on 127.0.1.1:53: read udp 127.0.0.1:54030->127.0.1.1:53: i/o timeout
+Get http://xinhuanet.com/: dial tcp: lookup xinhuanet.com on 127.0.1.1:53: read udp 127.0.0.1:54841->127.0.1.1:53: i/o timeout
+Get http://prnewswire.com/: dial tcp: lookup prnewswire.com on 127.0.1.1:53: read udp 127.0.0.1:58460->127.0.1.1:53: i/o timeout
+Get http://umn.edu/: dial tcp: lookup umn.edu on 127.0.1.1:53: read udp 127.0.0.1:37148->127.0.1.1:53: i/o timeout
+Get http://usnews.com/: dial tcp: lookup usnews.com on 127.0.1.1:53: read udp 127.0.0.1:53816->127.0.1.1:53: i/o timeout
+Get http://macromedia.com/: dial tcp: lookup macromedia.com on 127.0.1.1:53: read udp 127.0.0.1:53175->127.0.1.1:53: i/o timeout
+Get http://people.com.cn/: dial tcp: lookup people.com.cn on 127.0.1.1:53: read udp 127.0.0.1:35943->127.0.1.1:53: i/o timeout
+Get http://nazwa.pl/: dial tcp: lookup nazwa.pl on 127.0.1.1:53: read udp 127.0.0.1:57765->127.0.1.1:53: i/o timeout
+Get http://dribbble.com/: dial tcp: lookup dribbble.com on 127.0.1.1:53: read udp 127.0.0.1:54931->127.0.1.1:53: i/o timeout
+Get http://ifeng.com/: dial tcp: lookup ifeng.com on 127.0.1.1:53: read udp 127.0.0.1:35706->127.0.1.1:53: i/o timeout
+Get http://si.edu/: dial tcp: lookup si.edu on 127.0.1.1:53: read udp 127.0.0.1:36099->127.0.1.1:53: i/o timeout
+Get http://cbslocal.com/: dial tcp: lookup cbslocal.com on 127.0.1.1:53: read udp 127.0.0.1:39532->127.0.1.1:53: i/o timeout
+Get http://beian.gov.cn/: dial tcp: lookup beian.gov.cn on 127.0.1.1:53: read udp 127.0.0.1:58440->127.0.1.1:53: i/o timeout
+Get http://abc.net.au/: dial tcp: lookup abc.net.au on 127.0.1.1:53: read udp 127.0.0.1:45096->127.0.1.1:53: i/o timeout
+Get http://nymag.com/: dial tcp: lookup nymag.com on 127.0.1.1:53: read udp 127.0.0.1:50126->127.0.1.1:53: i/o timeout
+Get http://nypost.com/: dial tcp: lookup nypost.com on 127.0.1.1:53: read udp 127.0.0.1:35268->127.0.1.1:53: i/o timeout
+Get http://zdnet.com/: dial tcp: lookup zdnet.com on 127.0.1.1:53: read udp 127.0.0.1:42365->127.0.1.1:53: i/o timeout
+Get http://list-manage1.com/: dial tcp: lookup list-manage1.com on 127.0.1.1:53: read udp 127.0.0.1:39583->127.0.1.1:53: i/o timeout
+Get http://psu.edu/: dial tcp: lookup psu.edu on 127.0.1.1:53: read udp 127.0.0.1:46441->127.0.1.1:53: i/o timeout
+Get http://ebay.de/: dial tcp: lookup ebay.de on 127.0.1.1:53: read udp 127.0.0.1:32840->127.0.1.1:53: i/o timeout
+Get http://goodreads.com/: dial tcp: lookup goodreads.com on 127.0.1.1:53: read udp 127.0.0.1:40846->127.0.1.1:53: i/o timeout
+Get http://ft.com/: dial tcp: lookup ft.com on 127.0.1.1:53: read udp 127.0.0.1:45518->127.0.1.1:53: i/o timeout
+Get http://100ye.com/: dial tcp: lookup 100ye.com on 127.0.1.1:53: read udp 127.0.0.1:56112->127.0.1.1:53: i/o timeout
+Get http://android.com/: dial tcp [2607:f8b0:4000:80b::2004]:80: connect: network is unreachable
+Get http://senate.gov/: dial tcp: lookup senate.gov on 127.0.1.1:53: read udp 127.0.0.1:52594->127.0.1.1:53: i/o timeout
+Get http://ow.ly/: dial tcp: lookup ow.ly on 127.0.1.1:53: read udp 127.0.0.1:46728->127.0.1.1:53: i/o timeout
+Get http://line.me/: dial tcp: lookup line.me on 127.0.1.1:53: read udp 127.0.0.1:53498->127.0.1.1:53: i/o timeout
+Get http://cloudfront.net/: dial tcp: lookup cloudfront.net on 127.0.1.1:53: read udp 127.0.0.1:34727->127.0.1.1:53: i/o timeout
+Get http://archive.org/: dial tcp: lookup archive.org on 127.0.1.1:53: read udp 127.0.0.1:56478->127.0.1.1:53: i/o timeout
+Get http://china.com.cn/: dial tcp: lookup china.com.cn on 127.0.1.1:53: read udp 127.0.0.1:52861->127.0.1.1:53: i/o timeout
+Get http://domainnameshop.com/: dial tcp: lookup domainnameshop.com on 127.0.1.1:53: read udp 127.0.0.1:57787->127.0.1.1:53: i/o timeout
+Get http://1and1.com/: dial tcp: lookup 1and1.com on 127.0.1.1:53: read udp 127.0.0.1:44085->127.0.1.1:53: i/o timeout
+Get http://ox.ac.uk/: dial tcp: lookup ox.ac.uk on 127.0.1.1:53: read udp 127.0.0.1:59096->127.0.1.1:53: i/o timeout
+Get http://loopia.se/: dial tcp: lookup loopia.se on 127.0.1.1:53: read udp 127.0.0.1:58815->127.0.1.1:53: i/o timeout
+Get http://nydailynews.com/: dial tcp: lookup nydailynews.com on 127.0.1.1:53: read udp 127.0.0.1:53940->127.0.1.1:53: i/o timeout
+Get http://about.me/: dial tcp: lookup about.me on 127.0.1.1:53: read udp 127.0.0.1:44532->127.0.1.1:53: i/o timeout
+Get http://detik.com/: dial tcp: lookup detik.com on 127.0.1.1:53: read udp 127.0.0.1:35343->127.0.1.1:53: i/o timeout
+Get http://loc.gov/: dial tcp: lookup loc.gov on 127.0.1.1:53: read udp 127.0.0.1:49475->127.0.1.1:53: i/o timeout
+Get http://wikia.com/: dial tcp: lookup wikia.com on 127.0.1.1:53: read udp 127.0.0.1:48529->127.0.1.1:53: i/o timeout
+Get http://1and1.fr/: dial tcp: lookup 1and1.fr on 127.0.1.1:53: read udp 127.0.0.1:53334->127.0.1.1:53: i/o timeout
+Get http://alibaba.com/: dial tcp: lookup alibaba.com on 127.0.1.1:53: read udp 127.0.0.1:55530->127.0.1.1:53: i/o timeout
+Get http://fortune.com/: dial tcp: lookup fortune.com on 127.0.1.1:53: read udp 127.0.0.1:56475->127.0.1.1:53: i/o timeout
+Get http://webmd.com/: dial tcp: lookup webmd.com on 127.0.1.1:53: read udp 127.0.0.1:57908->127.0.1.1:53: i/o timeout
+Get http://nhs.uk/: dial tcp: lookup nhs.uk on 127.0.1.1:53: read udp 127.0.0.1:42682->127.0.1.1:53: i/o timeout
+Get http://rs6.net/: dial tcp: lookup rs6.net on 127.0.1.1:53: read udp 127.0.0.1:60365->127.0.1.1:53: i/o timeout
+Get http://wixsite.com/: dial tcp: lookup wixsite.com on 127.0.1.1:53: read udp 127.0.0.1:49095->127.0.1.1:53: i/o timeout
+Get http://wunderground.com/: dial tcp: lookup wunderground.com on 127.0.1.1:53: read udp 127.0.0.1:59943->127.0.1.1:53: i/o timeout
+Get http://loopia.com/: dial tcp: lookup loopia.com on 127.0.1.1:53: read udp 127.0.0.1:36064->127.0.1.1:53: i/o timeout
+Get http://oracle.com/: dial tcp: lookup oracle.com on 127.0.1.1:53: read udp 127.0.0.1:43124->127.0.1.1:53: i/o timeout
+Get http://princeton.edu/: dial tcp: lookup princeton.edu on 127.0.1.1:53: read udp 127.0.0.1:48572->127.0.1.1:53: i/o timeout
+Get http://rambler.ru/: dial tcp: lookup rambler.ru on 127.0.1.1:53: read udp 127.0.0.1:40993->127.0.1.1:53: i/o timeout
+Get http://house.gov/: dial tcp: lookup house.gov on 127.0.1.1:53: read udp 127.0.0.1:38859->127.0.1.1:53: i/o timeout
+Get http://google.it/: dial tcp: lookup google.it on 127.0.1.1:53: read udp 127.0.0.1:36583->127.0.1.1:53: i/o timeout
+Get http://campaign-archive1.com/: dial tcp: lookup campaign-archive1.com on 127.0.1.1:53: read udp 127.0.0.1:41284->127.0.1.1:53: i/o timeout
+Get http://rakuten.co.jp/: dial tcp: lookup rakuten.co.jp on 127.0.1.1:53: read udp 127.0.0.1:56881->127.0.1.1:53: i/o timeout
+Get http://marriott.com/: dial tcp: lookup marriott.com on 127.0.1.1:53: read udp 127.0.0.1:35893->127.0.1.1:53: i/o timeout
+Get http://wired.com/: dial tcp: lookup wired.com on 127.0.1.1:53: read udp 127.0.0.1:35092->127.0.1.1:53: i/o timeout
+Get http://plesk.com/: dial tcp: lookup plesk.com on 127.0.1.1:53: read udp 127.0.0.1:58392->127.0.1.1:53: i/o timeout
+Get http://usda.gov/: dial tcp: lookup usda.gov on 127.0.1.1:53: read udp 127.0.0.1:37177->127.0.1.1:53: i/o timeout
+Get http://inc.com/: dial tcp: lookup inc.com on 127.0.1.1:53: read udp 127.0.0.1:40288->127.0.1.1:53: i/o timeout
+Get http://blogspot.com.es/: dial tcp: lookup blogspot.com.es on 127.0.1.1:53: read udp 127.0.0.1:60928->127.0.1.1:53: i/o timeout
+Get http://springer.com/: dial tcp: lookup springer.com on 127.0.1.1:53: read udp 127.0.0.1:44895->127.0.1.1:53: i/o timeout
+Get http://technorati.com/: dial tcp: lookup technorati.com on 127.0.1.1:53: read udp 127.0.0.1:35403->127.0.1.1:53: i/o timeout
+Get http://google.ca/: dial tcp: lookup google.ca on 127.0.1.1:53: read udp 127.0.0.1:55252->127.0.1.1:53: i/o timeout
+Get http://sciencedirect.com/: dial tcp: lookup sciencedirect.com on 127.0.1.1:53: read udp 127.0.0.1:53871->127.0.1.1:53: i/o timeout
+Get http://wp.me/: dial tcp: lookup wp.me on 127.0.1.1:53: read udp 127.0.0.1:51623->127.0.1.1:53: i/o timeout
+Get http://shopify.com/: dial tcp: lookup shopify.com on 127.0.1.1:53: read udp 127.0.0.1:40972->127.0.1.1:53: i/o timeout
+Get http://mijndomein.nl/: dial tcp: lookup mijndomein.nl on 127.0.1.1:53: read udp 127.0.0.1:52916->127.0.1.1:53: i/o timeout
+Get http://go.com/: dial tcp: lookup go.com on 127.0.1.1:53: read udp 127.0.0.1:56480->127.0.1.1:53: i/o timeout
+Get http://squarespace.com/: dial tcp: lookup squarespace.com on 127.0.1.1:53: read udp 127.0.0.1:54323->127.0.1.1:53: i/o timeout
+Get http://sohu.com/: dial tcp: lookup sohu.com on 127.0.1.1:53: read udp 127.0.0.1:45266->127.0.1.1:53: i/o timeout
+Get http://irs.gov/: dial tcp: lookup irs.gov on 127.0.1.1:53: read udp 127.0.0.1:54685->127.0.1.1:53: i/o timeout
+Get http://change.org/: dial tcp: lookup change.org on 127.0.1.1:53: read udp 127.0.0.1:53010->127.0.1.1:53: i/o timeout
+Get http://ftc.gov/: dial tcp: lookup ftc.gov on 127.0.1.1:53: read udp 127.0.0.1:45123->127.0.1.1:53: i/o timeout
+Get http://eepurl.com/: dial tcp: lookup eepurl.com on 127.0.1.1:53: read udp 127.0.0.1:40049->127.0.1.1:53: i/o timeout
+Get http://cyberchimps.com/: dial tcp: lookup cyberchimps.com on 127.0.1.1:53: read udp 127.0.0.1:52638->127.0.1.1:53: i/o timeout
+Get http://themegrill.com/: dial tcp: lookup themegrill.com on 127.0.1.1:53: read udp 127.0.0.1:36758->127.0.1.1:53: i/o timeout
+Get http://epa.gov/: dial tcp: lookup epa.gov on 127.0.1.1:53: read udp 127.0.0.1:54480->127.0.1.1:53: i/o timeout
+Get http://justgiving.com/: dial tcp: lookup justgiving.com on 127.0.1.1:53: read udp 127.0.0.1:57627->127.0.1.1:53: i/o timeout
+Get http://so.com/: dial tcp: lookup so.com on 127.0.1.1:53: read udp 127.0.0.1:34333->127.0.1.1:53: i/o timeout
+Get http://ca.gov/: dial tcp: lookup ca.gov on 127.0.1.1:53: read udp 127.0.0.1:50835->127.0.1.1:53: i/o timeout
+Get http://live.com/: dial tcp: lookup live.com on 127.0.1.1:53: read udp 127.0.0.1:58434->127.0.1.1:53: i/o timeout
+Get http://goo.ne.jp/: dial tcp: lookup goo.ne.jp on 127.0.1.1:53: read udp 127.0.0.1:59153->127.0.1.1:53: i/o timeout
+Get http://bloomberg.com/: dial tcp: lookup bloomberg.com on 127.0.1.1:53: read udp 127.0.0.1:60283->127.0.1.1:53: i/o timeout
+Get http://hc360.com/: dial tcp: lookup hc360.com on 127.0.1.1:53: read udp 127.0.0.1:59548->127.0.1.1:53: i/o timeout
+Get http://stanford.edu/: dial tcp: lookup stanford.edu on 127.0.1.1:53: read udp 127.0.0.1:57518->127.0.1.1:53: i/o timeout
+Get http://alexa.com/: dial tcp: lookup alexa.com on 127.0.1.1:53: read udp 127.0.0.1:45602->127.0.1.1:53: i/o timeout
+Get http://cisco.com/: dial tcp: lookup cisco.com on 127.0.1.1:53: read udp 127.0.0.1:58797->127.0.1.1:53: i/o timeout
+Get http://t-online.de/: dial tcp: lookup t-online.de on 127.0.1.1:53: read udp 127.0.0.1:59901->127.0.1.1:53: i/o timeout
+Get http://networksolutions.com/: dial tcp: lookup networksolutions.com on 127.0.1.1:53: read udp 127.0.0.1:57336->127.0.1.1:53: i/o timeout
+Get http://fb.me/: dial tcp: lookup fb.me on 127.0.1.1:53: read udp 127.0.0.1:50297->127.0.1.1:53: i/o timeout
+Get http://who.int/: dial tcp: lookup who.int on 127.0.1.1:53: read udp 127.0.0.1:50923->127.0.1.1:53: i/o timeout
+Get http://politico.com/: dial tcp: lookup politico.com on 127.0.1.1:53: read udp 127.0.0.1:40175->127.0.1.1:53: i/o timeout
+Get http://visma.com/: dial tcp: lookup visma.com on 127.0.1.1:53: read udp 127.0.0.1:39759->127.0.1.1:53: i/o timeout
+Get http://netflix.com/: dial tcp: lookup netflix.com on 127.0.1.1:53: read udp 127.0.0.1:60415->127.0.1.1:53: i/o timeout
+Get http://cmu.edu/: dial tcp: lookup cmu.edu on 127.0.1.1:53: read udp 127.0.0.1:51708->127.0.1.1:53: i/o timeout
+Get http://cbc.ca/: dial tcp: lookup cbc.ca on 127.0.1.1:53: read udp 127.0.0.1:45424->127.0.1.1:53: i/o timeout
+Get http://wa.gov/: dial tcp: lookup wa.gov on 127.0.1.1:53: read udp 127.0.0.1:34981->127.0.1.1:53: i/o timeout
+Get http://nielsen.com/: dial tcp: lookup nielsen.com on 127.0.1.1:53: read udp 127.0.0.1:54275->127.0.1.1:53: i/o timeout
+Get http://cryoutcreations.eu/: dial tcp: lookup cryoutcreations.eu on 127.0.1.1:53: read udp 127.0.0.1:58946->127.0.1.1:53: i/o timeout
+Get http://digg.com/: dial tcp: lookup digg.com on 127.0.1.1:53: read udp 127.0.0.1:54424->127.0.1.1:53: i/o timeout
+Get http://blackberry.com/: dial tcp: lookup blackberry.com on 127.0.1.1:53: read udp 127.0.0.1:47588->127.0.1.1:53: i/o timeout
+Get http://clickbank.net/: dial tcp: lookup clickbank.net on 127.0.1.1:53: read udp 127.0.0.1:42091->127.0.1.1:53: i/o timeout
+Get http://pcmag.com/: dial tcp: lookup pcmag.com on 127.0.1.1:53: read udp 127.0.0.1:48033->127.0.1.1:53: i/o timeout
+Get http://xrea.com/: dial tcp: lookup xrea.com on 127.0.1.1:53: read udp 127.0.0.1:54234->127.0.1.1:53: i/o timeout
+Get http://phoca.cz/: dial tcp: lookup phoca.cz on 127.0.1.1:53: read udp 127.0.0.1:45206->127.0.1.1:53: i/o timeout
+Get http://chinanews.com/: dial tcp: lookup chinanews.com on 127.0.1.1:53: read udp 127.0.0.1:60916->127.0.1.1:53: i/o timeout
+Get http://openstreetmap.org/: dial tcp: lookup openstreetmap.org on 127.0.1.1:53: read udp 127.0.0.1:57304->127.0.1.1:53: i/o timeout
+Get http://studiopress.com/: dial tcp: lookup studiopress.com on 127.0.1.1:53: read udp 127.0.0.1:37242->127.0.1.1:53: i/o timeout
+Get http://last.fm/: dial tcp: lookup last.fm on 127.0.1.1:53: read udp 127.0.0.1:47792->127.0.1.1:53: i/o timeout
+Get http://web.de/: dial tcp: lookup web.de on 127.0.1.1:53: read udp 127.0.0.1:34262->127.0.1.1:53: i/o timeout
+Get http://example.com/: dial tcp: lookup example.com on 127.0.1.1:53: read udp 127.0.0.1:39301->127.0.1.1:53: i/o timeout
+Get http://nike.com/: dial tcp: lookup nike.com on 127.0.1.1:53: read udp 127.0.0.1:50557->127.0.1.1:53: i/o timeout
+Get http://oecd.org/: dial tcp: lookup oecd.org on 127.0.1.1:53: read udp 127.0.0.1:36961->127.0.1.1:53: i/o timeout
+Get http://register.it/: dial tcp: lookup register.it on 127.0.1.1:53: read udp 127.0.0.1:52336->127.0.1.1:53: i/o timeout
+Get http://buydomains.com/: dial tcp: lookup buydomains.com on 127.0.1.1:53: read udp 127.0.0.1:41137->127.0.1.1:53: i/o timeout
+Get http://entrepreneur.com/: dial tcp: lookup entrepreneur.com on 127.0.1.1:53: read udp 127.0.0.1:52862->127.0.1.1:53: i/o timeout
+Get http://theregister.co.uk/: dial tcp: lookup theregister.co.uk on 127.0.1.1:53: read udp 127.0.0.1:57679->127.0.1.1:53: i/o timeout
+Get http://hbr.org/: dial tcp: lookup hbr.org on 127.0.1.1:53: read udp 127.0.0.1:34611->127.0.1.1:53: i/o timeout
+Get http://cbsnews.com/: dial tcp: lookup cbsnews.com on 127.0.1.1:53: read udp 127.0.0.1:40257->127.0.1.1:53: i/o timeout
+Get http://theatlantic.com/: dial tcp: lookup theatlantic.com on 127.0.1.1:53: read udp 127.0.0.1:53517->127.0.1.1:53: i/o timeout
+Get http://houzz.com/: dial tcp: lookup houzz.com on 127.0.1.1:53: read udp 127.0.0.1:41997->127.0.1.1:53: i/o timeout
+Get http://taobao.com/: dial tcp: lookup taobao.com on 127.0.1.1:53: read udp 127.0.0.1:38089->127.0.1.1:53: i/o timeout
+Get http://telnic.org/: dial tcp: lookup telnic.org on 127.0.1.1:53: read udp 127.0.0.1:34675->127.0.1.1:53: i/o timeout
+Get http://medium.com/: dial tcp: lookup medium.com on 127.0.1.1:53: read udp 127.0.0.1:36227->127.0.1.1:53: i/o timeout
+Get http://fbcdn.net/: dial tcp: lookup fbcdn.net on 127.0.1.1:53: read udp 127.0.0.1:44577->127.0.1.1:53: i/o timeout
+Get http://exblog.jp/: dial tcp: lookup exblog.jp on 127.0.1.1:53: read udp 127.0.0.1:38393->127.0.1.1:53: i/o timeout
+Get http://marketwatch.com/: dial tcp: lookup marketwatch.com on 127.0.1.1:53: read udp 127.0.0.1:37673->127.0.1.1:53: i/o timeout
+Get http://fastcompany.com/: dial tcp: lookup fastcompany.com on 127.0.1.1:53: read udp 127.0.0.1:60197->127.0.1.1:53: i/o timeout
+Get http://acquirethisname.com/: dial tcp: lookup acquirethisname.com on 127.0.1.1:53: read udp 127.0.0.1:49087->127.0.1.1:53: i/o timeout
+Get http://youku.com/: dial tcp: lookup youku.com on 127.0.1.1:53: read udp 127.0.0.1:49536->127.0.1.1:53: i/o timeout
+Get http://hhs.gov/: dial tcp: lookup hhs.gov on 127.0.1.1:53: read udp 127.0.0.1:55069->127.0.1.1:53: i/o timeout
+Get http://weather.com/: dial tcp: lookup weather.com on 127.0.1.1:53: read udp 127.0.0.1:58083->127.0.1.1:53: i/o timeout
+Get http://hostgator.com/: dial tcp: lookup hostgator.com on 127.0.1.1:53: read udp 127.0.0.1:46308->127.0.1.1:53: i/o timeout
+Get http://geocities.jp/: dial tcp: lookup geocities.jp on 127.0.1.1:53: read udp 127.0.0.1:35370->127.0.1.1:53: i/o timeout
+Get http://wufoo.com/: dial tcp: lookup wufoo.com on 127.0.1.1:53: read udp 127.0.0.1:43338->127.0.1.1:53: i/o timeout
+Get http://hubspot.com/: dial tcp: lookup hubspot.com on 127.0.1.1:53: read udp 127.0.0.1:59766->127.0.1.1:53: i/o timeout
+Get http://samsung.com/: dial tcp: lookup samsung.com on 127.0.1.1:53: read udp 127.0.0.1:52042->127.0.1.1:53: i/o timeout
+Get http://netcraft.com/: dial tcp: lookup netcraft.com on 127.0.1.1:53: read udp 127.0.0.1:40311->127.0.1.1:53: i/o timeout
+Get http://blogspot.in/: dial tcp: lookup blogspot.in on 127.0.1.1:53: read udp 127.0.0.1:48703->127.0.1.1:53: i/o timeout
+Get http://doi.org/: dial tcp: lookup doi.org on 127.0.1.1:53: read udp 127.0.0.1:47246->127.0.1.1:53: i/o timeout
+Get http://list-manage2.com/: dial tcp: lookup list-manage2.com on 127.0.1.1:53: read udp 127.0.0.1:37202->127.0.1.1:53: i/o timeout
+Get http://1688.com/: dial tcp: lookup 1688.com on 127.0.1.1:53: read udp 127.0.0.1:40750->127.0.1.1:53: i/o timeout
+Get http://dropboxusercontent.com/: dial tcp: lookup dropboxusercontent.com on 127.0.1.1:53: read udp 127.0.0.1:45576->127.0.1.1:53: i/o timeout
+Get http://wisc.edu/: dial tcp: lookup wisc.edu on 127.0.1.1:53: read udp 127.0.0.1:47829->127.0.1.1:53: i/o timeout
+Get http://naver.com/: dial tcp: lookup naver.com on 127.0.1.1:53: read udp 127.0.0.1:42069->127.0.1.1:53: i/o timeout
+Get http://tmall.com/: dial tcp: lookup tmall.com on 127.0.1.1:53: read udp 127.0.0.1:40290->127.0.1.1:53: i/o timeout
+Get http://uol.com.br/: dial tcp: lookup uol.com.br on 127.0.1.1:53: read udp 127.0.0.1:40423->127.0.1.1:53: i/o timeout
+Get http://ap.org/: dial tcp: lookup ap.org on 127.0.1.1:53: read udp 127.0.0.1:51110->127.0.1.1:53: i/o timeout
+Get http://smh.com.au/: dial tcp: lookup smh.com.au on 127.0.1.1:53: read udp 127.0.0.1:58406->127.0.1.1:53: i/o timeout
+Get http://afternic.com/: dial tcp: lookup afternic.com on 127.0.1.1:53: read udp 127.0.0.1:38809->127.0.1.1:53: i/o timeout
+Get http://dell.com/: dial tcp: lookup dell.com on 127.0.1.1:53: read udp 127.0.0.1:49261->127.0.1.1:53: i/o timeout
+Get http://businesswire.com/: dial tcp: lookup businesswire.com on 127.0.1.1:53: read udp 127.0.0.1:59612->127.0.1.1:53: i/o timeout
+Get http://campaign-archive2.com/: dial tcp: lookup campaign-archive2.com on 127.0.1.1:53: read udp 127.0.0.1:50399->127.0.1.1:53: i/o timeout
+Get http://uk2.net/: dial tcp: lookup uk2.net on 127.0.1.1:53: read udp 127.0.0.1:59134->127.0.1.1:53: i/o timeout
+Get http://bizjournals.com/: dial tcp: lookup bizjournals.com on 127.0.1.1:53: read udp 127.0.0.1:55234->127.0.1.1:53: i/o timeout
+Get http://att.com/: dial tcp: lookup att.com on 127.0.1.1:53: read udp 127.0.0.1:44665->127.0.1.1:53: i/o timeout
+Get http://theverge.com/: dial tcp: lookup theverge.com on 127.0.1.1:53: read udp 127.0.0.1:41621->127.0.1.1:53: i/o timeout
+Get http://enable-javascript.com/: dial tcp: lookup enable-javascript.com on 127.0.1.1:53: read udp 127.0.0.1:40511->127.0.1.1:53: i/o timeout
+Get http://istockphoto.com/: dial tcp: lookup istockphoto.com on 127.0.1.1:53: read udp 127.0.0.1:54785->127.0.1.1:53: i/o timeout
+Get http://ocn.ne.jp/: dial tcp: lookup ocn.ne.jp on 127.0.1.1:53: read udp 127.0.0.1:56275->127.0.1.1:53: i/o timeout
+Get http://worldbank.org/: dial tcp: lookup worldbank.org on 127.0.1.1:53: read udp 127.0.0.1:50749->127.0.1.1:53: i/o timeout
+Get http://mysql.com/: dial tcp: lookup mysql.com on 127.0.1.1:53: read udp 127.0.0.1:60399->127.0.1.1:53: i/o timeout
+Get http://blogspot.de/: dial tcp: lookup blogspot.de on 127.0.1.1:53: read udp 127.0.0.1:33052->127.0.1.1:53: i/o timeout
+Get http://drupal.org/: dial tcp: lookup drupal.org on 127.0.1.1:53: read udp 127.0.0.1:42520->127.0.1.1:53: i/o timeout
+Get http://xiti.com/: dial tcp: lookup xiti.com on 127.0.1.1:53: read udp 127.0.0.1:55900->127.0.1.1:53: i/o timeout
+Get http://mlb.com/: dial tcp: lookup mlb.com on 127.0.1.1:53: read udp 127.0.0.1:43551->127.0.1.1:53: i/o timeout
+Get http://adweek.com/: dial tcp: lookup adweek.com on 127.0.1.1:53: read udp 127.0.0.1:40724->127.0.1.1:53: i/o timeout
+Get http://icann.org/: dial tcp [2001:500:88:200::7]:80: connect: network is unreachable
+Get http://ibm.com/: dial tcp: lookup ibm.com on 127.0.1.1:53: read udp 127.0.0.1:34269->127.0.1.1:53: i/o timeout
+Get http://php.net/: dial tcp [2a02:cb41::7]:80: connect: network is unreachable
+Get http://dailymotion.com/: dial tcp: lookup dailymotion.com on 127.0.1.1:53: read udp 127.0.0.1:47990->127.0.1.1:53: i/o timeout
+Get http://nationalgeographic.com/: dial tcp: lookup nationalgeographic.com on 127.0.1.1:53: read udp 127.0.0.1:53829->127.0.1.1:53: i/o timeout
+Get http://a8.net/: dial tcp: lookup a8.net on 127.0.1.1:53: read udp 127.0.0.1:38526->127.0.1.1:53: i/o timeout
+Get http://adition.com/: dial tcp: lookup adition.com on 127.0.1.1:53: read udp 127.0.0.1:60695->127.0.1.1:53: i/o timeout
+Get http://mozilla.com/: dial tcp: lookup mozilla.com on 127.0.1.1:53: read udp 127.0.0.1:48326->127.0.1.1:53: i/o timeout
+Get http://icio.us/: dial tcp: lookup icio.us on 127.0.1.1:53: read udp 127.0.0.1:50450->127.0.1.1:53: i/o timeout
+Get http://usgs.gov/: dial tcp: lookup usgs.gov on 127.0.1.1:53: read udp 127.0.0.1:48368->127.0.1.1:53: i/o timeout
+Get http://google.ru/: dial tcp: lookup google.ru on 127.0.1.1:53: read udp 127.0.0.1:48567->127.0.1.1:53: i/o timeout
+Get http://fotolia.com/: dial tcp: lookup fotolia.com on 127.0.1.1:53: read udp 127.0.0.1:48787->127.0.1.1:53: i/o timeout
+Get http://hotlog.ru/: dial tcp: lookup hotlog.ru on 127.0.1.1:53: read udp 127.0.0.1:39203->127.0.1.1:53: i/o timeout
+Get http://tandfonline.com/: dial tcp: lookup tandfonline.com on 127.0.1.1:53: read udp 127.0.0.1:33780->127.0.1.1:53: i/o timeout
+Get http://uspto.gov/: dial tcp: lookup uspto.gov on 127.0.1.1:53: read udp 127.0.0.1:55078->127.0.1.1:53: i/o timeout
+Get http://odnoklassniki.ru/: dial tcp: lookup odnoklassniki.ru on 127.0.1.1:53: read udp 127.0.0.1:49733->127.0.1.1:53: i/o timeout
+Get http://vkontakte.ru/: dial tcp: lookup vkontakte.ru on 127.0.1.1:53: read udp 127.0.0.1:42487->127.0.1.1:53: i/o timeout
+Get http://newyorker.com/: dial tcp: lookup newyorker.com on 127.0.1.1:53: read udp 127.0.0.1:53875->127.0.1.1:53: i/o timeout
+Get http://umich.edu/: dial tcp: lookup umich.edu on 127.0.1.1:53: read udp 127.0.0.1:50039->127.0.1.1:53: i/o timeout
+Get http://walmart.com/: dial tcp: lookup walmart.com on 127.0.1.1:53: read udp 127.0.0.1:53720->127.0.1.1:53: i/o timeout
+Get http://dol.gov/: dial tcp: lookup dol.gov on 127.0.1.1:53: read udp 127.0.0.1:41979->127.0.1.1:53: i/o timeout
+Get http://home.pl/: dial tcp: lookup home.pl on 127.0.1.1:53: read udp 127.0.0.1:56057->127.0.1.1:53: i/o timeout
+Get http://jd.com/: dial tcp: lookup jd.com on 127.0.1.1:53: read udp 127.0.0.1:47505->127.0.1.1:53: i/o timeout
+Get http://dreamhost.com/: dial tcp: lookup dreamhost.com on 127.0.1.1:53: read udp 127.0.0.1:60036->127.0.1.1:53: i/o timeout
+Get http://shareasale.com/: dial tcp: lookup shareasale.com on 127.0.1.1:53: read udp 127.0.0.1:37353->127.0.1.1:53: i/o timeout
+Get http://arstechnica.com/: dial tcp: lookup arstechnica.com on 127.0.1.1:53: read udp 127.0.0.1:51347->127.0.1.1:53: i/o timeout
+Get http://nginx.org/: dial tcp: lookup nginx.org on 127.0.1.1:53: read udp 127.0.0.1:43466->127.0.1.1:53: i/o timeout
+Get http://hexun.com/: dial tcp: lookup hexun.com on 127.0.1.1:53: read udp 127.0.0.1:47203->127.0.1.1:53: i/o timeout
+Get http://whitehouse.gov/: dial tcp: lookup whitehouse.gov on 127.0.1.1:53: read udp 127.0.0.1:57078->127.0.1.1:53: i/o timeout
+Get http://dandomain.dk/: dial tcp: lookup dandomain.dk on 127.0.1.1:53: read udp 127.0.0.1:42871->127.0.1.1:53: i/o timeout
+Get http://businessweek.com/: dial tcp: lookup businessweek.com on 127.0.1.1:53: read udp 127.0.0.1:47567->127.0.1.1:53: i/o timeout
+Get http://hollywoodreporter.com/: dial tcp: lookup hollywoodreporter.com on 127.0.1.1:53: read udp 127.0.0.1:50663->127.0.1.1:53: i/o timeout
+Get http://about.com/: dial tcp: lookup about.com on 127.0.1.1:53: read udp 127.0.0.1:60049->127.0.1.1:53: i/o timeout
+Get http://slate.com/: dial tcp: lookup slate.com on 127.0.1.1:53: read udp 127.0.0.1:58725->127.0.1.1:53: i/o timeout
+Get http://domainname.ru/: dial tcp: lookup domainname.ru on 127.0.1.1:53: read udp 127.0.0.1:42260->127.0.1.1:53: i/o timeout
+Get http://feedly.com/: dial tcp: lookup feedly.com on 127.0.1.1:53: read udp 127.0.0.1:37135->127.0.1.1:53: i/o timeout
+Get http://redcross.org/: dial tcp: lookup redcross.org on 127.0.1.1:53: read udp 127.0.0.1:34688->127.0.1.1:53: i/o timeout
+Get http://crazydomains.com.au/: dial tcp: lookup crazydomains.com.au on 127.0.1.1:53: read udp 127.0.0.1:53409->127.0.1.1:53: i/o timeout
+Get http://buzzfeed.com/: dial tcp: lookup buzzfeed.com on 127.0.1.1:53: read udp 127.0.0.1:48405->127.0.1.1:53: i/o timeout
+Get http://hp.com/: dial tcp: lookup hp.com on 127.0.1.1:53: read udp 127.0.0.1:60191->127.0.1.1:53: i/o timeout
+Get http://directdomains.com/: dial tcp: lookup directdomains.com on 127.0.1.1:53: read udp 127.0.0.1:57125->127.0.1.1:53: i/o timeout
+Get http://cnbc.com/: dial tcp: lookup cnbc.com on 127.0.1.1:53: read udp 127.0.0.1:46133->127.0.1.1:53: i/o timeout
+Get http://domeneshop.no/: dial tcp: lookup domeneshop.no on 127.0.1.1:53: read udp 127.0.0.1:56219->127.0.1.1:53: i/o timeout
+Get http://wikihow.com/: dial tcp: lookup wikihow.com on 127.0.1.1:53: read udp 127.0.0.1:38522->127.0.1.1:53: i/o timeout
+Get http://sakura.ne.jp/: dial tcp: lookup sakura.ne.jp on 127.0.1.1:53: read udp 127.0.0.1:51268->127.0.1.1:53: i/o timeout
+Get http://gravatar.com/: dial tcp: lookup gravatar.com on 127.0.1.1:53: read udp 127.0.0.1:59652->127.0.1.1:53: i/o timeout
+Get http://baiyewang.com/: dial tcp: lookup baiyewang.com on 127.0.1.1:53: read udp 127.0.0.1:38068->127.0.1.1:53: i/o timeout
+Get http://prweb.com/: dial tcp: lookup prweb.com on 127.0.1.1:53: read udp 127.0.0.1:35366->127.0.1.1:53: i/o timeout
+Get http://fda.gov/: dial tcp: lookup fda.gov on 127.0.1.1:53: read udp 127.0.0.1:58666->127.0.1.1:53: i/o timeout
+Get http://cam.ac.uk/: dial tcp: lookup cam.ac.uk on 127.0.1.1:53: read udp 127.0.0.1:39677->127.0.1.1:53: i/o timeout
+Get http://themeforest.net/: dial tcp: lookup themeforest.net on 127.0.1.1:53: read udp 127.0.0.1:40415->127.0.1.1:53: i/o timeout
+Get http://sfgate.com/: dial tcp: lookup sfgate.com on 127.0.1.1:53: read udp 127.0.0.1:51747->127.0.1.1:53: i/o timeout
+Get http://gizmodo.com/: dial tcp: lookup gizmodo.com on 127.0.1.1:53: read udp 127.0.0.1:34086->127.0.1.1:53: i/o timeout
+Get http://oxfordjournals.org/: dial tcp: lookup oxfordjournals.org on 127.0.1.1:53: read udp 127.0.0.1:47429->127.0.1.1:53: i/o timeout
+Get http://gofundme.com/: dial tcp: lookup gofundme.com on 127.0.1.1:53: read udp 127.0.0.1:57394->127.0.1.1:53: i/o timeout
+Get http://booking.com/: dial tcp: lookup booking.com on 127.0.1.1:53: read udp 127.0.0.1:52613->127.0.1.1:53: i/o timeout
+Get http://nic.tel/: dial tcp: lookup nic.tel on 127.0.1.1:53: read udp 127.0.0.1:52705->127.0.1.1:53: i/o timeout
+Get http://cctv.com/: dial tcp: lookup cctv.com on 127.0.1.1:53: read udp 127.0.0.1:43302->127.0.1.1:53: i/o timeout
+Get http://debian.org/: dial tcp: lookup debian.org on 127.0.1.1:53: read udp 127.0.0.1:40960->127.0.1.1:53: i/o timeout
+Get http://mailchimp.com/: dial tcp: lookup mailchimp.com on 127.0.1.1:53: read udp 127.0.0.1:55793->127.0.1.1:53: i/o timeout
+Get http://variety.com/: dial tcp: lookup variety.com on 127.0.1.1:53: read udp 127.0.0.1:42180->127.0.1.1:53: i/o timeout
+Get http://intel.com/: dial tcp: lookup intel.com on 127.0.1.1:53: read udp 127.0.0.1:56586->127.0.1.1:53: i/o timeout
+Get https://www.joomla.org/: dial tcp: lookup www.joomla.org on 127.0.1.1:53: read udp 127.0.0.1:47984->127.0.1.1:53: i/o timeout
+Get https://www.nasa.gov/: dial tcp [2607:f4e8:210:a000::e]:443: connect: network is unreachable
+Get https://bitly.com/: dial tcp: lookup bitly.com on 127.0.1.1:53: read udp 127.0.0.1:60712->127.0.1.1:53: i/o timeout
+Get http://www.wix.com/: dial tcp: lookup www.wix.com on 127.0.1.1:53: read udp 127.0.0.1:41850->127.0.1.1:53: i/o timeout
+10.26s    11709  http://europa.eu/
+Get https://disqus.com/: dial tcp: lookup disqus.com on 127.0.1.1:53: read udp 127.0.0.1:55282->127.0.1.1:53: i/o timeout
+Get https://stackoverflow.com/: dial tcp: lookup stackoverflow.com on 127.0.1.1:53: read udp 127.0.0.1:41932->127.0.1.1:53: i/o timeout
+10.32s    24950  http://wordpress.org/
+Get https://www.cdc.gov/: dial tcp [2600:1404:27:28c::2461]:443: connect: network is unreachable
+Get http://www.washington.edu/: dial tcp: lookup www.washington.edu on 127.0.1.1:53: read udp 127.0.0.1:42806->127.0.1.1:53: i/o timeout
+Get http://www2.deloitte.com/: dial tcp: lookup www2.deloitte.com on 127.0.1.1:53: read udp 127.0.0.1:32935->127.0.1.1:53: i/o timeout
+Get http://www.e-recht24.de/: dial tcp: lookup www.e-recht24.de on 127.0.1.1:53: read udp 127.0.0.1:41731->127.0.1.1:53: i/o timeout
+Get https://www.mozilla.org/: dial tcp [2400:cb00:2048:1::6810:2802]:443: connect: network is unreachable
+Get https://amazon.co.uk/: dial tcp: lookup amazon.co.uk on 127.0.1.1:53: read udp 127.0.0.1:59047->127.0.1.1:53: i/o timeout
+Get https://skype.com/: dial tcp: lookup skype.com on 127.0.1.1:53: read udp 127.0.0.1:36746->127.0.1.1:53: i/o timeout
+Get https://www.usatoday.com/: dial tcp: lookup www.usatoday.com on 127.0.1.1:53: read udp 127.0.0.1:57963->127.0.1.1:53: i/o timeout
+10.71s   872420  http://vice.com/
+10.75s    50399  http://surveymonkey.com/
+10.74s   144271  http://fb.com/
+Get https://www.symantec.com/: dial tcp [2600:1404:27:295::145b]:443: connect: network is unreachable
+Get https://www.51.la/: dial tcp: lookup www.51.la on 127.0.1.1:53: read udp 127.0.0.1:52982->127.0.1.1:53: i/o timeout
+Get http://www.bbb.org: dial tcp: lookup www.bbb.org on 127.0.1.1:53: read udp 127.0.0.1:48001->127.0.1.1:53: i/o timeout
+Get https://www.microsoft.com: dial tcp [2600:1404:27:29a::747]:443: connect: network is unreachable
+Get https://www.wikimedia.org/: dial tcp [2620:0:860:ed1a::1]:443: connect: network is unreachable
+11.97s   228296  http://deviantart.com/
+12.15s    36809  http://w3.org/
+12.22s    97119  http://addthis.com/
+13.76s   144061  http://facebook.com/
+13.80s   170849  http://livejournal.com/
+Get http://www.dailymail.co.uk/ushome/index.html: dial tcp: lookup www.dailymail.co.uk on 127.0.1.1:53: read udp 127.0.0.1:39646->127.0.1.1:53: i/o timeout
+Get https://www.reddit.com/: dial tcp: lookup www.reddit.com on 127.0.1.1:53: read udp 127.0.0.1:60456->127.0.1.1:53: i/o timeout
+Get https://www.nytimes.com/: dial tcp: lookup www.nytimes.com on 127.0.1.1:53: read udp 127.0.0.1:45458->127.0.1.1:53: i/o timeout
+Get https://cpanel.com/: dial tcp: lookup cpanel.com on 127.0.1.1:53: read udp 127.0.0.1:41744->127.0.1.1:53: i/o timeout
+Get https://cpanel.com/: dial tcp: lookup cpanel.com on 127.0.1.1:53: read udp 127.0.0.1:41744->127.0.1.1:53: i/o timeout
+Get http://www.independent.co.uk/: dial tcp: lookup www.independent.co.uk on 127.0.1.1:53: read udp 127.0.0.1:49684->127.0.1.1:53: i/o timeout
+Get https://bandcamp.com/: dial tcp: lookup bandcamp.com on 127.0.1.1:53: read udp 127.0.0.1:53005->127.0.1.1:53: i/o timeout
+Get https://venturebeat.com/: dial tcp: lookup venturebeat.com on 127.0.1.1:53: read udp 127.0.0.1:43134->127.0.1.1:53: i/o timeout
+Get http://www.zendesk.com/: dial tcp: lookup www.zendesk.com on 127.0.1.1:53: read udp 127.0.0.1:46415->127.0.1.1:53: i/o timeout
+Get http://www.state.gov/index.htm: dial tcp: lookup www.state.gov on 127.0.1.1:53: read udp 127.0.0.1:58153->127.0.1.1:53: i/o timeout
+15.12s   555127  http://latimes.com/
+Get http://www.pbs.org/: dial tcp: lookup www.pbs.org on 127.0.1.1:53: read udp 127.0.0.1:40310->127.0.1.1:53: i/o timeout
+Get http://www.networkadvertising.org/: dial tcp: lookup www.networkadvertising.org on 127.0.1.1:53: read udp 127.0.0.1:54648->127.0.1.1:53: i/o timeout
+Get https://gpo.gov/: dial tcp: lookup gpo.gov on 127.0.1.1:53: read udp 127.0.0.1:51813->127.0.1.1:53: i/o timeout
+15.24s    10458  http://google.de/
+15.24s    41233  http://opera.com/
+15.27s     8385  http://un.org/
+15.32s   126093  http://barnesandnoble.com/
+Get http://www.bund.de/Content/DE/Home/homepage_node.html: dial tcp: lookup www.bund.de on 127.0.1.1:53: read udp 127.0.0.1:48540->127.0.1.1:53: i/o timeout
+15.39s    34273  http://fc2.com/
+Get http://www.bbc.com/: dial tcp: lookup www.bbc.com on 127.0.1.1:53: read udp 127.0.0.1:59386->127.0.1.1:53: i/o timeout
+Get http://www.aboutcookies.org/: dial tcp: lookup www.aboutcookies.org on 127.0.1.1:53: read udp 127.0.0.1:34015->127.0.1.1:53: i/o timeout
+Get https://ok.ru/: dial tcp: lookup ok.ru on 127.0.1.1:53: read udp 127.0.0.1:42853->127.0.1.1:53: i/o timeout
+Get https://www.nsw.gov.au/: dial tcp: lookup www.nsw.gov.au on 127.0.1.1:53: read udp 127.0.0.1:35802->127.0.1.1:53: i/o timeout
+Get http://www.msn.com/: dial tcp: lookup www.msn.com on 127.0.1.1:53: read udp 127.0.0.1:60846->127.0.1.1:53: i/o timeout
+Get https://paypal.com/: dial tcp: lookup paypal.com on 127.0.1.1:53: read udp 127.0.0.1:42818->127.0.1.1:53: i/o timeout
+Get https://shop-pro.jp/: dial tcp: lookup shop-pro.jp on 127.0.1.1:53: read udp 127.0.0.1:55686->127.0.1.1:53: i/o timeout
+Get http://www.qq.com/: dial tcp: lookup www.qq.com on 127.0.1.1:53: read udp 127.0.0.1:56052->127.0.1.1:53: i/o timeout
+15.62s    53575  http://spotify.com/
+Get http://www.gnu.org/: dial tcp: lookup www.gnu.org on 127.0.1.1:53: read udp 127.0.0.1:41604->127.0.1.1:53: i/o timeout
+15.78s    62385  http://teamviewer.com/
+15.94s   251809  http://bbc.co.uk/
+Get http://www.google.fr/: dial tcp: lookup www.google.fr on 127.0.1.1:53: read udp 127.0.0.1:41152->127.0.1.1:53: i/o timeout
+Get http://www.mapquest.com/: dial tcp: lookup www.mapquest.com on 127.0.1.1:53: read udp 127.0.0.1:50624->127.0.1.1:53: i/o timeout
+Get http://www.free.fr/freebox/index.html: dial tcp: lookup www.free.fr on 127.0.1.1:53: read udp 127.0.0.1:48978->127.0.1.1:53: i/o timeout
+Get https://yandex.ru/: dial tcp: lookup yandex.ru on 127.0.1.1:53: read udp 127.0.0.1:56187->127.0.1.1:53: i/o timeout
+16.46s   274357  http://census.gov/
+Get https://www.scribd.com/: dial tcp: lookup www.scribd.com on 127.0.1.1:53: read udp 127.0.0.1:50415->127.0.1.1:53: i/o timeout
+Get http://us.weibo.com/: dial tcp: lookup us.weibo.com on 127.0.1.1:53: read udp 127.0.0.1:60887->127.0.1.1:53: i/o timeout
+16.78s      103  http://noaa.gov/
+Get https://www.google.com/accounts/ServiceLogin?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=beMHkJNB69UtcoqBs3y4nucFi72W1uOD: dial tcp: lookup www.google.com on 127.0.1.1:53: read udp 127.0.0.1:54057->127.0.1.1:53: i/o timeout
+Get http://www.google.com/: dial tcp: lookup www.google.com on 127.0.1.1:53: read udp 127.0.0.1:54057->127.0.1.1:53: i/o timeout
+18.28s   186256  http://slideshare.net/
+Get http://www.warnerbros.com: dial tcp: lookup www.warnerbros.com on 127.0.1.1:53: read udp 127.0.0.1:46598->127.0.1.1:53: i/o timeout
+Get https://elegantthemes.com/: dial tcp: lookup elegantthemes.com on 127.0.1.1:53: read udp 127.0.0.1:53915->127.0.1.1:53: i/o timeout
+Get https://guardian.co.uk/: dial tcp: lookup guardian.co.uk on 127.0.1.1:53: read udp 127.0.0.1:59782->127.0.1.1:53: i/o timeout
+Get http://web.mit.edu/: dial tcp: lookup web.mit.edu on 127.0.1.1:53: read udp 127.0.0.1:45803->127.0.1.1:53: i/o timeout
+Get http://www.economist.com/: dial tcp: lookup www.economist.com on 127.0.1.1:53: read udp 127.0.0.1:34504->127.0.1.1:53: i/o timeout
+Get https://www.name.com/: dial tcp: lookup www.name.com on 127.0.1.1:53: read udp 127.0.0.1:50947->127.0.1.1:53: i/o timeout
+Get http://www.npr.org/: dial tcp: lookup www.npr.org on 127.0.1.1:53: read udp 127.0.0.1:47130->127.0.1.1:53: i/o timeout
+Get https://www.utexas.edu/: dial tcp: lookup www.utexas.edu on 127.0.1.1:53: read udp 127.0.0.1:55764->127.0.1.1:53: i/o timeout
+Get http://www.google.nl/: dial tcp: lookup www.google.nl on 127.0.1.1:53: read udp 127.0.0.1:58546->127.0.1.1:53: i/o timeout
+Get https://sagepub.com/: dial tcp: lookup sagepub.com on 127.0.1.1:53: read udp 127.0.0.1:56283->127.0.1.1:53: i/o timeout
+Get https://mailchimp.com/about/mcsv-static: dial tcp: lookup mailchimp.com on 127.0.1.1:53: read udp 127.0.0.1:49407->127.0.1.1:53: i/o timeout
+Get https://www.phpbb.com/: dial tcp: lookup www.phpbb.com on 127.0.1.1:53: read udp 127.0.0.1:34128->127.0.1.1:53: i/o timeout
+Get http://www3.hilton.com/en/index.html: dial tcp: lookup www3.hilton.com on 127.0.1.1:53: read udp 127.0.0.1:39764->127.0.1.1:53: i/o timeout
+Get https://www.apple.com/: dial tcp [2600:1404:27:28c::1aca]:443: connect: network is unreachable
+20.38s   371696  http://kickstarter.com/
+Get https://www.bola.net/: dial tcp: lookup www.bola.net on 127.0.1.1:53: read udp 127.0.0.1:55572->127.0.1.1:53: i/o timeout
+Get http://www.indiatimes.com/: dial tcp: lookup www.indiatimes.com on 127.0.1.1:53: read udp 127.0.0.1:56415->127.0.1.1:53: i/o timeout
+Get https://www.amazon.co.jp/: dial tcp: lookup www.amazon.co.jp on 127.0.1.1:53: read udp 127.0.0.1:38727->127.0.1.1:53: i/o timeout
+Get http://www.weebly.com/: dial tcp: lookup www.weebly.com on 127.0.1.1:53: read udp 127.0.0.1:37179->127.0.1.1:53: i/o timeout
+Get https://www.sogou.com/: dial tcp: lookup www.sogou.com on 127.0.1.1:53: read udp 127.0.0.1:59865->127.0.1.1:53: i/o timeout
+21.27s    23227  http://doubleclick.net/
+Get http://www.nature.com/: dial tcp: lookup www.nature.com on 127.0.1.1:53: read udp 127.0.0.1:51990->127.0.1.1:53: i/o timeout
+Get https://www.ted.com/: dial tcp: lookup www.ted.com on 127.0.1.1:53: read udp 127.0.0.1:49644->127.0.1.1:53: i/o timeout
+Get https://www.smugmug.com/: dial tcp: lookup www.smugmug.com on 127.0.1.1:53: read udp 127.0.0.1:38523->127.0.1.1:53: i/o timeout
+Get http://www.cafepress.com/: dial tcp: lookup www.cafepress.com on 127.0.1.1:53: read udp 127.0.0.1:36648->127.0.1.1:53: i/o timeout
+Get https://www.bls.gov: dial tcp: lookup www.bls.gov on 127.0.1.1:53: read udp 127.0.0.1:35013->127.0.1.1:53: i/o timeout
+Get http://www.accuweather.com/: dial tcp: lookup www.accuweather.com on 127.0.1.1:53: read udp 127.0.0.1:55888->127.0.1.1:53: i/o timeout
+Get http://m.vk.com/: dial tcp: lookup m.vk.com on 127.0.1.1:53: read udp 127.0.0.1:42890->127.0.1.1:53: i/o timeout
+26.41s   196591  http://amazon.fr/
+Get http://umblr.com/: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
+Get http://comsenz.com/: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
+30.01s elapsed
