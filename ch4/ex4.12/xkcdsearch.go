@@ -21,10 +21,11 @@ var comics xkcd.ComicDescriptions
 const file = "./descriptions.gob"
 
 func main() {
+	noFile := false
 	downloadPtr := flag.Bool("u", false, "update descriptions and exit")
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Usage of %s [-u] term1 term2 ... termN\n\n", os.Args[0])
-		fmt.Fprintln(os.Stderr, "Paramters:")
+		fmt.Fprintln(os.Stderr, "Parameters:")
 		flag.PrintDefaults()
 	}
 	if len(os.Args) == 1 {
@@ -33,15 +34,20 @@ func main() {
 	}
 	flag.Parse()
 
-	if *downloadPtr {
-		err := Load(file, &comics)
-		check(err)
+	if _, err := os.Stat(file); os.IsNotExist(err) {
+		noFile = true
+	}
 
+	if *downloadPtr || noFile {
+		if !noFile {
+			err := Load(file, &comics)
+			check(err)
+		}
 		fmt.Println("Downloading descriptions...")
 		download()
 		fmt.Println("Downloaded all descriptions.")
 		fmt.Println("Saving downloaded results...")
-		err = Save(file, comics)
+		err := Save(file, comics)
 		check(err)
 		fmt.Printf("Results saved to %v. Exiting.\n", file)
 		os.Exit(0)
